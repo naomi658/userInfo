@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "48353656714",
+    "project_id": "my-application-7b1cd",
+    "storage_bucket": "my-application-7b1cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48353656714:android:7069de8415356cfc731273",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48353656714-0epq12hr6ardo16qq0kc36en3dhp9deh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "b404372e39d6916850122c47bd83c2d412490f3b"
+          }
+        },
+        {
+          "client_id": "48353656714-d0hofc68po8ofj06gspmbc7emr5ite66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-omCwsEZs9KfKzNE0_M3P5pay-wlMIzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48353656714-d0hofc68po8ofj06gspmbc7emr5ite66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48353656714:android:27acf7ccd5e9d324731273",
+        "android_client_info": {
+          "package_name": "com.example.userinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48353656714-d0hofc68po8ofj06gspmbc7emr5ite66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-omCwsEZs9KfKzNE0_M3P5pay-wlMIzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48353656714-d0hofc68po8ofj06gspmbc7emr5ite66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

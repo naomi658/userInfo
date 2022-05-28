@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">userInfo</string>
+    <string name="startPoint">출발지 입력</string>
+    <string name="endPoint">목적지 입력</string>
+    <string name="userAddress">Enter the Address.</string>
+    <string name="search">Search</string>
+</resources>
